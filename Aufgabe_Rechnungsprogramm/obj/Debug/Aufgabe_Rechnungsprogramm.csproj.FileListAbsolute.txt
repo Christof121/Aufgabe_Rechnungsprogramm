@@ -1,0 +1,7 @@
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\bin\Debug\Aufgabe_Rechnungsprogramm.exe.config
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\bin\Debug\Aufgabe_Rechnungsprogramm.exe
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\bin\Debug\Aufgabe_Rechnungsprogramm.pdb
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\obj\Debug\Aufgabe_Rechnungsprogramm.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\obj\Debug\Aufgabe_Rechnungsprogramm.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\obj\Debug\Aufgabe_Rechnungsprogramm.exe
+C:\Users\info\OneDrive\Documents\Visual Studio 2022\Techniker\Aufgabe_Rechnungsprogramm\Aufgabe_Rechnungsprogramm\obj\Debug\Aufgabe_Rechnungsprogramm.pdb
