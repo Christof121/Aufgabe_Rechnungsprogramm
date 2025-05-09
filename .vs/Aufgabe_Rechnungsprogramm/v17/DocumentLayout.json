@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Aufgabe_Rechnungsprogramm\\Program.cs",
               "ToolTip": "C:\\Users\\info\\OneDrive\\Documents\\Visual Studio 2022\\Techniker\\Aufgabe_Rechnungsprogramm\\Aufgabe_Rechnungsprogramm\\Program.cs",
               "RelativeToolTip": "Aufgabe_Rechnungsprogramm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowGEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T18:51:23.103Z",
               "EditorCaption": ""

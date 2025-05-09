@@ -18,7 +18,7 @@ namespace Aufgabe_Rechnungsprogramm
             */
 
             //Debug Ausgabe in der Konsole aktivieren | default: false
-            bool debug = false;
+            bool debug = true;
 
             //Sollen vorausgefüllte Datensätze generiert werden? | default: true
             bool generatePrefilledData = true;
@@ -86,7 +86,7 @@ namespace Aufgabe_Rechnungsprogramm
                 if (debug) Console.WriteLine($"[DEBUG] {anzahlDatensaetzeGenerieren} Datensätze mit je {anzahlDatensaetzeGenerierenPositionen} wurden generiert");
             }
             #endregion initialisierung
-            // Eigentlche Programmstart
+            // Eigentlcher Programmstart
 
             do
             {
@@ -213,7 +213,7 @@ namespace Aufgabe_Rechnungsprogramm
                             {
                                 // Position vorhanden => Ausgabe
                                 string[] fragments = item.Split(';');
-                                //                          Pos                             Bezeichnung     Stückpreis      Menge
+                                //                          Pos                             Bezeichnung       Stückpreis           Menge
                                 Console.WriteLine($"{counterLieferscheinPositionen,-3} | {fragments[0],-25} | {fragments[1],-10} | {fragments[2],-10}");
                                 counterLieferscheinPositionen++;
                             };
@@ -241,7 +241,7 @@ namespace Aufgabe_Rechnungsprogramm
 
                         counterLieferscheinPositionen = 1; // Counter für Lieferscheinpositionen setzten
                         Console.WriteLine("");
-                        Console.WriteLine($"Lieferschein {uiLieferscheinnummer}\n");
+                        Console.WriteLine($"Rechnung {uiLieferscheinnummer}\n");
                         // Ausgabe Inhalt des Lieferscheines
                         Console.WriteLine($"{"Pos",-3} | {"Bezeichnung",-25} | {"Eur/Stck",-10} | {"Menge",-10}");
                         Console.WriteLine("_______________________________________________________________________");
